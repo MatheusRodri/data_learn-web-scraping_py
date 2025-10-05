@@ -1,20 +1,36 @@
 # Learn Web Scraping
 
-O projeto se trata,sobre web scraping na qual nesse projeto utiliza o seguinte site https://toscrape.com/ que é recomendado para quem quer aprender Web Scraping 
+> O projeto se trata,sobre web scraping na qual nesse projeto utiliza o seguinte site https://toscrape.com/ que é recomendado para quem quer aprender Web Scraping 
 
-## Requisitos
+
+## Sumário
+
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Rodar](#como-rodar)
+  - [Pré-requisitos](#pré-requisitos)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
+
+
+## Funcionalidades
+
+- Extrair dados do site https://toscrape.com/
+
+## Tecnologias Utilizadas
 
 - Python
-- Editor de código (Vscode, PyCharm...)
+    - Requests
+    - BeautifulSoup
 
-## Tecnologias utilizadas
+## Como Rodar
+### Pré-requisitos
 
-- Python
-  - Requests
-  - BeautifulSoup
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
+- Python 3.10 ou superior
+- Editor de texto ou IDE de sua preferência (Visual Studio Code, PyCharm, etc.)
 
-
-## Como executar
+## Como rodar
 
 - Clone ou baixe o repositório
 - Baixe seus dados da Uber
@@ -26,3 +42,8 @@ O projeto se trata,sobre web scraping na qual nesse projeto utiliza o seguinte s
 - Execute o comando pip install -r requirements.txt para instalar as dependências
 - Entre no arquivo main.py
 - Clique em executar
+
+
+## Como Contribuir
+
+- Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-mrj/)
